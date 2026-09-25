@@ -130,7 +130,7 @@ $("#orb").onclick=()=>{
   const orb=$("#orb");
   orb.classList.remove("orb-active");void orb.offsetWidth;orb.classList.add("orb-active");
   createOrbBurst();
-  if(orbCount>=8)setTimeout(()=>goToScene(3),800);
+  if(orbCount>=7)setTimeout(()=>goToScene(3),800);
 };
 function createOrbBurst(){
   const orb=$("#orb"),r=orb.getBoundingClientRect(),cx=r.left+r.width/2,cy=r.top+r.height/2;
