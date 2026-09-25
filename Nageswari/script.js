@@ -23,7 +23,7 @@ With lots of happiness and warm wishes💙`,
     {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/img3.jpg",caption:"More memories are waiting to be made😅"},
     {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/IMG-20260925-WA0003%7E2.jpg",caption:"You made outfit more attractive🌟"},
     {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/img4.jpg",caption:"A page worth turning back to🫣"},
-    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Music/IMG-20260922-WA0006%7E3.jpg", caption:"Again for trip?"},    
+    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Music/IMG-20260922-WA0006%7E3.jpg", caption:"Again for trip?"}    
   ],
 
   // These are interest-style questions. Change the correct answers if needed.
