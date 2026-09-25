@@ -7,7 +7,7 @@ const CONFIG = {
 
   message: `Happiest Birthday Nageswari! 🎂
 On 26-09-2004 a spark risers with great courage and attitude!
-Twenty Three is more than just a number. It is the beginning of another beautiful chapter — full of new places, new memories, big dreams and tiny moments worth remembering.
+Twenty Three is more than just a number. It is the beginning of another beautiful chapter — full of new places, new memories and big dreams.
 I hope you always keep that spark that makes you💥,
 May you laugh loudly, dream fearlessly and find a little magic in ordinary days🌟.
 Some ups and downs may happen, but god always with you💫.
@@ -130,7 +130,7 @@ $("#orb").onclick=()=>{
   const orb=$("#orb");
   orb.classList.remove("orb-active");void orb.offsetWidth;orb.classList.add("orb-active");
   createOrbBurst();
-  if(orbCount>=7)setTimeout(()=>goToScene(3),800);
+  if(orbCount>=8)setTimeout(()=>goToScene(3),800);
 };
 function createOrbBurst(){
   const orb=$("#orb"),r=orb.getBoundingClientRect(),cx=r.left+r.width/2,cy=r.top+r.height/2;
