@@ -7,22 +7,23 @@ const CONFIG = {
 
   message: `Happiest Birthday Nageswari! 🎂
 On 26-09-2004 a spark risers with great courage and attitude!
-Twenty Three is more than just a number. It is the beginning of another beautiful chapter — full of new places, new memories, big dreams and tiny moments worth remembering.
+Twenty Three is more than just a number. It is the beginning of another beautiful chapter — full of new places, new memories and big dreams.
 I hope you always keep that spark that makes you💥,
 May you laugh loudly, dream fearlessly and find a little magic in ordinary days🌟.
 Some ups and downs may happen, but god always with you💫.
-Here's to Chapter 23...✨
+Here's to begin Chapter 23...✨
 With lots of happiness and warm wishes💙`,
 
   photos: [
     {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Images/IMG-20260925-WA0001.jpg",caption:"A memory that deserves its own little star⭐"},
     {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/img1.jpg",caption:"Camera man deserves credit😉"},
     {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/img2.jpg",caption:"Some memories never really leave us✨"},
-    {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/img4.jpg",caption:"A page worth turning back to🫣"},
+    {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Images/IMG-20260925-WA0006.jpg",caption:"Wishing more smiles lies on your face💙"},
     {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/IMG-20260925-WA0005%7E3.jpg",caption:"The kind of moment you wish you could pause💫"},
     {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/img3.jpg",caption:"More memories are waiting to be made😅"},
     {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/IMG-20260925-WA0003%7E2.jpg",caption:"You made outfit more attractive🌟"},
-    {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Images/IMG-20260925-WA0006.jpg",caption:"Wishing more smiles lies on your face💙"}
+    {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/img4.jpg",caption:"A page worth turning back to🫣"},
+   
   ],
 
   // These are interest-style questions. Change the correct answers if needed.
