@@ -116,9 +116,9 @@ $$(".portal").forEach(b=>b.onclick=()=>{
 // ORB — every tap creates a different event, not just a pulse
 let orbCount=0;
 const orbEvents=[
-  "A tiny woke up of your birthday Nageswari. 🫣",
+  "A tiny woke up of your birthday Topper. 🫣",
   "The light remembers something… that we never 🌙",
-  "A secret star just appeared in life. ⭐",
+  "A secret star just appeared in your life. ⭐",
   "The orb is getting brighter like your smile…😉",
   "Something magic is getting closer to your heart. 🪄",
   "Find look after person inside yourself. 👀",
@@ -309,11 +309,11 @@ if(CONFIG.finalPhoto){
   img.onerror=()=>{img.style.display="none";$("#final-photo-placeholder").style.display="grid"};
 }
 $("#like-btn").onclick=()=>{
-  $("#reaction-message").textContent="Thank you! ❤️ I'm so happy you liked it and give reply with ✨.";
+  $("#reaction-message").textContent="Thank you! ❤️ I'm so happy you liked it, please give reply with ✨.";
   $("#reaction-area").style.display="none";
 };
 $("#dislike-btn").onclick=()=>{
-  $("#reaction-message").textContent="Thanks for being honest! 😄 and please give reply with 🙌🏼";
+  $("#reaction-message").textContent="Thanks for being honest! 😄, please give reply with 🙌🏼";
   $("#reaction-area").style.display="none";
   setTimeout(()=>replayFromBeginning(),1300);
 };
