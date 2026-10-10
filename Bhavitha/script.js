@@ -3,48 +3,48 @@
 */
 const CONFIG = {
   name: "To The Topper",
-  finalPhoto: "https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/img8.jpg",
+  finalPhoto: "https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img9.jpg",
 
-  message: `Happiest Birthday Nageswari! 🎂
-On 26-09-2004 a spark risers with great courage and attitude!
-Twenty Three is more than just a number. It is the beginning of another beautiful chapter — full of new places, new memories and big dreams.
+  message: `Happiest Birthday Bhavitha 🎂
+On 15-09-2002 a spark risers with great courage and attitude!
+Twenty Four is more than just a number. It is the beginning of another beautiful chapter — full of new places, new memories and big dreams.
 I hope you always keep that spark that makes you💥,
 May you laugh loudly, dream fearlessly and find a little magic in ordinary days🌟.
 Some ups and downs may happen, but god always with you💫.
-Here's to begin Chapter 23...✨
+Here's to begin Chapter 24...✨
 With lots of happiness and warm wishes💙`,
 
   photos: [
-    {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Images/IMG-20260925-WA0001.jpg",caption:"A memory that deserves its own little star⭐"},
-    {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/img1.jpg",caption:"Camera man deserves credit😉"},
-    {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/img2.jpg",caption:"Some memories never really leave us✨"},
-    {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Images/IMG-20260925-WA0006.jpg",caption:"Wishing more smiles lies on your face💙"},
-    {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/IMG-20260925-WA0005%7E3.jpg",caption:"The kind of moment you wish you could pause💫"},
-    {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/img3.jpg",caption:"More memories are waiting to be made😅"},
-    {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/IMG-20260925-WA0003%7E2.jpg",caption:"You made outfit more attractive🌟"},
-    {src:"https://raw.githubusercontent.com/cha-nty/happybirthday-/refs/heads/main/Music/img4.jpg",caption:"A page worth turning back to🫣"},
-    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Music/IMG-20260922-WA0006%7E3.jpg", caption:"Again for trip?"}    
+    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img3.jpg",caption:"A memory that deserves its own little star⭐"},
+    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img7.jpg",caption:"Camera man deserves credit😉"},
+    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img2.jpg",caption:"Some memories never really leave us✨"},
+    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img6.jpg",caption:"Wishing more smiles lies on your face💙"},
+    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img5.jpg",caption:"The kind of moment you wish you could pause💫"},
+    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img8.jpg",caption:"More memories are waiting to be made💝"},
+    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img1.jpg",caption:"You made outfit more attractive🌟"},
+    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img4.jpg",caption:"Bright Smile with glowing 🫣"},
+    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/Screenshot_20261010-140542%7E2.jpg", caption:" Caption need?"}    
   ],
 
   // These are interest-style questions. Change the correct answers if needed.
   quiz: [
     {
-      q:"What Nageswari like to do most in free time?",
+      q:"What Bhavitha like to do most in free time?",
       answers:["Watching phone 📱","Listening to music 🎧","Watching movies 🎬","Sitting alone 🌙"],
       correct:1
     },
     {
-      q:"What would Nageswari enjoy doing more?",
+      q:"What would Bhavitha enjoy doing more?",
       answers:["Travelling ✈️","Cooking 🍳","Playing 🎮","Trying something completely new ✨"],
       correct:0
     },
       {
-      q:"What does Nageswari Likes more?",
-      answers:["Cinema🎥","Football⚽","Cricket🏏","All of the above"],
+      q:"What does Bhavitha Likes more?",
+      answers:["Cinema🎥","Instagram","Big Boss","All of the above"],
       correct:3
     },
     {
-      q:"Which kind of day sounds most like by Nageswari?",
+      q:"Which kind of day sounds most like by Bhavitha?",
       answers:["A peaceful day alone 🌙","A fun day with friends 🫶","An adventure somewhere new 🌍","A cozy movie/music day 🎶"],
       correct:2
     }
@@ -116,7 +116,7 @@ $$(".portal").forEach(b=>b.onclick=()=>{
 // ORB — every tap creates a different event, not just a pulse
 let orbCount=0;
 const orbEvents=[
-  "A tiny woke up of your birthday Topper. 🫣",
+  "A tiny woke up of your birthday Bablue. 🫣",
   "The light remembers something… that we never 🌙",
   "A secret star just appeared in your life. ⭐",
   "The orb is getting brighter like your smile…😉",
