@@ -14,7 +14,7 @@ Some ups and downs may happen, but god always with you💫.
 Here's to begin Chapter 24...✨
 With lots of happiness and warm wishes💙`,
 
-  .photos: [
+  photos: [
     {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img3.jpg",caption:"A memory that deserves its own little star⭐"},
     {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img7.jpg",caption:"Camera man deserves credit😉"},
     {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img2.jpg",caption:"Some memories never really leave us✨"},
@@ -23,7 +23,7 @@ With lots of happiness and warm wishes💙`,
     {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img8.jpg",caption:"More memories are waiting to be made💝"},
     {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img1.jpg",caption:"You made outfit more attractive🌟"},
     {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img4.jpg",caption:"Bright Smile with glowing 🫣"},
-    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/Screenshot_20261010-140542%7E2.jpg", caption:" Caption need?"}    
+    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/Screenshot_20261010-140542%7E2.jpg", caption:" Caption need?"},    
   ],
 
   // These are interest-style questions. Change the correct answers if needed.
