@@ -1,7 +1,7 @@
 /* CHAPTER 20 — PERSONALIZED BIRTHDAY STORY
    Change CONFIG below. Put your final photo at the path in finalPhoto.
 */
-const CONFIG = {
+onst CONFIG = {
   name: "To The Topper",
   finalPhoto: "https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img9.jpg",
 
@@ -23,7 +23,7 @@ With lots of happiness and warm wishes💙`,
     {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img8.jpg",caption:"More memories are waiting to be made💝"},
     {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img1.jpg",caption:"You made outfit more attractive🌟"},
     {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img4.jpg",caption:"Bright Smile with glowing 🫣"},
-    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/Screenshot_20261010-140542%7E2.jpg", caption:" Caption need?"},    
+    {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/Screenshot_20261010-140542%7E2.jpg", caption:" Caption need?"}    
   ],
 
   // These are interest-style questions. Change the correct answers if needed.
