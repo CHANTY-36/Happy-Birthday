@@ -1,7 +1,7 @@
 /* CHAPTER 20 — PERSONALIZED BIRTHDAY STORY
    Change CONFIG below. Put your final photo at the path in finalPhoto.
 */
-onst CONFIG = {
+const CONFIG = {
   name: "To The Topper",
   finalPhoto: "https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img9.jpg",
 
