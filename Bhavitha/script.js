@@ -213,7 +213,7 @@ function gameLoop(){
       if(score>=50)endGame(true);
     }else if(s.y>game.clientHeight+40){
       s.el.remove();stars.splice(i,1);misses++;$("#misses").textContent=misses;
-      if(misses>1){endGame(false);return}
+      if(misses>3){endGame(false);return}
     }
   }
   rafId=requestAnimationFrame(gameLoop);
