@@ -14,7 +14,7 @@ Some ups and downs may happen, but god always with you💫.
 Here's to begin Chapter 24...✨
 With lots of happiness and warm wishes💙`,
 
-  photos: [
+  .photos: [
     {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img3.jpg",caption:"A memory that deserves its own little star⭐"},
     {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img7.jpg",caption:"Camera man deserves credit😉"},
     {src:"https://raw.githubusercontent.com/CHANTY-36/Testing/refs/heads/main/Images/Images1/img2.jpg",caption:"Some memories never really leave us✨"},
